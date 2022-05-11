@@ -1,0 +1,6 @@
+REM SmallBASIC
+REM created: 08/04/2022
+
+
+? ROUND(16*RND)
+END
